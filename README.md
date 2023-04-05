@@ -1,3 +1,4 @@
 # GAN
 GAN
-![image](https://user-images.githubusercontent.com/31372586/221066646-d8825242-9288-4fa0-be99-91dbbd21b2c7.png)
+
+![image](https://user-images.githubusercontent.com/31372586/230138893-f5e37565-9030-4311-8c23-539cc4681126.png)
